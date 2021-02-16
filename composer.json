@@ -7,7 +7,7 @@
     "laravel5",
     "laravel6"
   ],
-  "version": "5.4.0",
+  "version": "8.0.0",
   "license": "MIT",
   "authors": [
     {
@@ -24,8 +24,8 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
-    "illuminate/support": "5.*|^6|^7"
+    "php": ">=7.3.0",
+    "illuminate/support": "5.*|^6|^7|^8"
   },
   "autoload": {
     "psr-0": {
